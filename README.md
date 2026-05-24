@@ -1,31 +1,31 @@
 [README.md](https://github.com/user-attachments/files/28193378/README.md)
-# 📊 Analisis Kelayakan Bisnis — Tools UMKM Indonesia
+# Analisis Kelayakan Bisnis — Tools UMKM Indonesia
 
 > Kalkulator kelayakan usaha berbasis web dengan analisis AI, dirancang khusus untuk pelaku UMKM di Indonesia.
 
-🔗 **Live Demo:** [killimam.github.io/analisis-bisnis-umkm](https://killimam.github.io/analisis-bisnis-umkm)
+ **Live Demo:** [killimam.github.io/analisis-bisnis-umkm](https://killimam.github.io/analisis-bisnis-umkm)
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 📉 **BEP (Break Even Point)** | Hitung titik impas dalam satuan unit maupun rupiah |
-| 💰 **Proyeksi Laba/Rugi** | Tabel arus kas bulanan hingga 36 bulan ke depan |
-| 📈 **ROI & Payback Period** | Return on Investment tahunan & estimasi waktu balik modal |
-| 🌊 **Arus Kas (Cash Flow)** | Visualisasi kumulatif surplus/defisit per bulan |
-| 🤖 **Analisis AI (Claude)** | Rekomendasi bisnis otomatis dalam Bahasa Indonesia |
+| **BEP (Break Even Point)** | Hitung titik impas dalam satuan unit maupun rupiah |
+| **Proyeksi Laba/Rugi** | Tabel arus kas bulanan hingga 36 bulan ke depan |
+| **ROI & Payback Period** | Return on Investment tahunan & estimasi waktu balik modal |
+| **Arus Kas (Cash Flow)** | Visualisasi kumulatif surplus/defisit per bulan |
+| **Analisis AI (Claude)** | Rekomendasi bisnis otomatis dalam Bahasa Indonesia |
 
 ---
 
-## 🖼️ Tampilan
+## Tampilan
 
 ![Screenshot aplikasi](screenshot.png)
 
 ---
 
-## 🚀 Cara Pakai
+## Cara Pakai
 
 Tidak perlu instalasi. Buka langsung di browser:
 
@@ -42,7 +42,7 @@ Tidak perlu instalasi. Buka langsung di browser:
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - **HTML / CSS / JavaScript** — murni vanilla, tanpa framework
 - **Claude API (Anthropic)** — untuk analisis bisnis berbasis AI
@@ -51,7 +51,7 @@ Tidak perlu instalasi. Buka langsung di browser:
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```
 analisis-bisnis-umkm/
@@ -61,7 +61,7 @@ analisis-bisnis-umkm/
 
 ---
 
-## 📦 Deploy ke GitHub Pages
+## Deploy ke GitHub Pages
 
 ```bash
 # 1. Clone atau buat repo baru
@@ -82,7 +82,7 @@ Setelah beberapa menit, aplikasi bisa diakses di:
 
 ---
 
-## 🧮 Formula yang Digunakan
+## Formula yang Digunakan
 
 ```
 Margin per Unit     = Harga Jual - Biaya Variabel/Unit
@@ -95,7 +95,7 @@ Payback Period      = Modal Awal / Laba Bersih per Bulan
 
 ---
 
-## 🎯 Target Pengguna
+## Target Pengguna
 
 - Calon wirausahawan yang ingin validasi ide bisnis
 - Pelaku UMKM yang ingin evaluasi kelayakan usahanya
@@ -103,7 +103,7 @@ Payback Period      = Modal Awal / Laba Bersih per Bulan
 
 ---
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Pull request terbuka! Beberapa ide pengembangan:
 
@@ -115,10 +115,8 @@ Pull request terbuka! Beberapa ide pengembangan:
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 MIT License — bebas digunakan dan dimodifikasi.
 
 ---
-
-<p align="center">Dibuat dengan ❤️ untuk UMKM Indonesia · Powered by <a href="https://anthropic.com">Claude AI</a></p>
