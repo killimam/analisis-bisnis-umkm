@@ -45,16 +45,6 @@ Tidak perlu instalasi. Buka langsung di browser:
 
 ---
 
-## Struktur Proyek
-
-```
-analisis-bisnis-umkm/
-│
-└── analisis-bisnis.html   # Seluruh aplikasi dalam satu file
-```
-
----
-
 ## Deploy ke GitHub Pages
 
 ```bash
@@ -86,14 +76,6 @@ Laba Bersih/Bulan   = Pendapatan - (Biaya Tetap + Biaya Variabel Total)
 ROI Tahunan         = (Laba Bersih × 12) / Modal × 100%
 Payback Period      = Modal Awal / Laba Bersih per Bulan
 ```
-
----
-
-## Target Pengguna
-
-- Calon wirausahawan yang ingin validasi ide bisnis
-- Pelaku UMKM yang ingin evaluasi kelayakan usahanya
-- Mahasiswa manajemen/bisnis untuk simulasi studi kasus
 
 ---
 
