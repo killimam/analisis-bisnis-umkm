@@ -3,7 +3,7 @@
 
 > Kalkulator kelayakan usaha berbasis web dengan analisis AI, dirancang khusus untuk pelaku UMKM di Indonesia.
 
- **Live Demo:** [username.github.io/analisis-bisnis-umkm](https://username.github.io/analisis-bisnis-umkm)
+ **Live Demo:** [killimam.github.io/analisis-bisnis-umkm](https://killimam.github.io/analisis-bisnis-umkm)
 
 ---
 
@@ -54,7 +54,7 @@ git add analisis-bisnis.html README.md
 git commit -m "first commit: analisis kelayakan bisnis UMKM"
 
 # 2. Push ke GitHub
-git remote add origin https://github.com/username/analisis-bisnis-umkm.git
+git remote add origin https://github.com/killimam/analisis-bisnis-umkm.git
 git push -u origin main
 
 # 3. Aktifkan GitHub Pages
@@ -62,7 +62,7 @@ git push -u origin main
 ```
 
 Setelah beberapa menit, aplikasi bisa diakses di:
-`https://username.github.io/analisis-bisnis-umkm`
+`https://killimam.github.io/analisis-bisnis-umkm`
 
 ---
 
